@@ -1,0 +1,9 @@
+[
+  { "id": "ORD-001", "sku": "DASH-001", "title": "Developer Portfolio Test Item", "price": 10.00, "date": "2026-04-03", "status": "Active" },
+  { "id": "ORD-002", "sku": "LENS-002", "title": "50mm f/1.8 Prime Lens", "price": 45.00, "date": "2026-04-08", "status": "Active" },
+  { "id": "ORD-003", "sku": "TRIPOD-003", "title": "Aluminum Travel Tripod", "price": 25.00, "date": "2026-04-08", "status": "Active" },
+  { "id": "ORD-004", "sku": "TECH-004", "title": "Dell Latitude E5480 14\" Business Laptop", "price": 250.00, "date": "2026-04-08", "status": "Active" },
+  { "id": "ORD-005", "sku": "MON-006", "title": "27\" 4K UHD IPS Computer Monitor", "price": 350.00, "date": "2026-04-08", "status": "Active" },
+  { "id": "ORD-006", "sku": "AUD-007", "title": "Premium Wireless Noise Cancelling Headphones", "price": 120.00, "date": "2026-04-08", "status": "Active" },
+  { "id": "ORD-007", "sku": "HUB-008", "title": "USB-C Docking Station 7-in-1 Hub", "price": 45.00, "date": "2026-04-08", "status": "Active" }
+]
